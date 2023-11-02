@@ -1,0 +1,49 @@
+/*button:hover{
+    opacity: 0.5;
+}*/
+input:checked + p{
+    text-decoration: line-through;
+    text-decoration-color: black;
+}
+.list-group{
+    border: 2px solid black;
+    box-shadow: 10px 10px;
+    width: 40%;
+    background-color: #EEE9DA;
+}
+
+h1{
+    font-family: 'Playpen Sans', cursive;
+}
+.head{
+    background-color: #BDCDD6;
+    text-align: center;
+}
+h1{
+    margin: auto;
+}
+label{
+    background-color: #EEE9DA;
+}
+body{
+    background-color: #6096B4;
+}
+
+.adiv{
+    display: flex;
+    justify-content: flex-end;
+}
+
+a{
+    color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.btn{
+    font-size: 1.5rem;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+}
